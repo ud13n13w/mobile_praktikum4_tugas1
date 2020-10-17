@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">praktikum4_tugas1</string>
+    <string name="pendaftaran_akun">Pendaftaran Akun</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="username">Username</string>
+    <string name="nama_belakang">Nama Belakang</string>
+    <string name="nama_depan">Nama Depan</string>
+</resources>
